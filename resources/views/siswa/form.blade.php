@@ -12,7 +12,7 @@
 	</h1>
 	<ol class="breadcrumb">
 		<li><a href="{{ url('siswa') }}"><i class="fa fa-dashboard"></i>Home</a></li>
-		<li>Data Siswa</li>
+		<li>Data Siswi</li>
 		<li class="active">{{ empty($result) ? 'Tambah' : 'Edit' }} Data Siswa</li>
 	</ol>
 </section>
